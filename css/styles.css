@@ -54,12 +54,12 @@ p{
 .cloud-2{
   position: absolute;
 bottom: 300px;
-left: 300px;
+left: 250px;
 }
 .cloud-1{
   position: absolute;
   right: 300px;
-  top: 50px
+  top: 40px
 }
 
 .middle{
