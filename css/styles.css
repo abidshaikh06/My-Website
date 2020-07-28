@@ -44,10 +44,9 @@ line-height:1;
   font-size: 2.5rem;
   font-weight: normal;
 }
-.pro{
-  text-decoration: underline;
 
-}
+
+
 
 p{
   line-height: 2;
@@ -142,7 +141,7 @@ margin-right: 30px;
 
 
   .button:hover{
-  
+
 
    background: #30E3CB;
 
@@ -189,4 +188,11 @@ a:hover{
 .intro{
   width: 30%;
   margin: auto;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+
 }
