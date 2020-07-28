@@ -142,7 +142,7 @@ margin-right: 30px;
 
 
   .button:hover{
-
+  
 
    background: #30E3CB;
 
@@ -167,14 +167,22 @@ margin-right: 30px;
    text-decoration: none;
 
 }
-
+a{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+  font-weight: bold;
+}
 
 .footer{
   margin-top: 100px;
     background-color: #66BFBF;
-    position: relative;
-    padding: 40px;
-    line-height: 2;
+    padding: 50px 0 20px;
+}
+
+a:hover{
+  color:#148F77 ;
 
 }
 
